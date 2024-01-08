@@ -1,0 +1,51 @@
+Alcoholic hepatitis is the acute deterioration of alcoholic liver disease with rapid onset or worsening of jaundice, which in severe cases, may transition to acute-on-chronic liver failure with extremely high short-term mortality, increasing with the number and severity of hepatic and extra-hepatic organ dysfunction.
+Diagnosis and treatment are insufficient and challenging, especially due to the complex, multi-factorial and as yet not fully understood pathogenesis.
+While current management is limited to steroids and best supportive care, debate is ongoing concerning liver transplantation for selected patients, and several novel approaches are under way with mixed results.
+These drawbacks in disease management together with increasing prevalence in Germany, and generally in Western countries, constitute an unmet need for the healthcare systems.
+This review tries to summarize the current status of these aspects and provides an overview for pathogenesis, management and potential future treatments.
+To investigate reduction of radiation exposure in unenhanced CT in suspicion of renal calculi using a tin-filtered high tube voltage protocol compared to a standard low-dose protocol without spectral shaping.
+A phantom study using 7 human renal calculi was performed to test both protocols.
+120 consecutive unenhanced CT examinations performed due to suspicion of renal calculi were included in this retrospective, monocentric study.
+60 examinations were included with the standard-dose protocol (SP) (100 kV/130 mAs), whereas another 60 studies were included using a low-dose protocol (LD) applying spectral shaping with tin filtration of high tube voltages (Sn150 kV/80 mAs).
+Image quality was assessed by two radiologists in consensus blinded to technical parameters using an equidistant Likert scale ranging from 1-5 with 5 being the highest score.
+Quantitative image quality was assessed using regions of interest in abdominal organs, muscles, and adipose tissue to analyze image noise and signal-to-noise ratios (SNR).
+Commercially available dosimetry software was used to determine and compare effective dose (ED) and size-specific dose estimates (SSDEmean).
+All seven renal calculi of the phantom could be detected with both protocols.
+There was no difference regarding calcluli size between the two protocols except for the smallest one.
+The smallest concretion measured 1.5 mm in LD and 1.0 mm in SP (ground truth 1.5 mm).
+CTDIvol was 3.36 mGy in LD (DLP: 119.3 mGycm) and 8.27 mGy in SP (DLP: 293.6 mGycm).
+The mean patient age in SP was 47 ± 17 years and in LD 49 ± 13 years.
+Ureterolithiasis was found in 33 cases in SP and 32 cases in LD.
+The median concretion size was 3 mm in SP and 4 mm in LD.
+The median ED in LD was 1.3 mSv (interquartile range (IQR) 0.3 mSv) compared to 2.3 mSv (IQR 0.9 mSv) in SP (p < 0.001).
+The SSDEmean of LD was also significantly lower compared to SP with 2.4 mGy (IQR 0.4 mGy) vs. 4.8 mGy (IQR 2.3 mGy) (p < 0.001).
+The SNR was significantly lower in LD compared to SP (p < 0.001).
+However, there was no significant difference between SP and LD regarding the qualitative assessment of image quality with a median of 4 (IQR 1) for both groups (p = 0.648).
+Tin-filtered unenhanced abdominal CT for the detection of renal calculi using high tube voltages leads to a significant reduction of radiation exposure and yields high diagnostic image quality without a significant difference compared to the institution's standard of care low-dose protocol without tin filtration.
+· Tin-filtered CT for the detection of renal calculi significantly reduces radiation dose.. · The application of tin filtration provides comparable diagnostic image quality to that of SP protocols.. · An increase in image noise does not hamper diagnostic image quality.. · Gassenmaier S, Winkelmann MT, Magnus J et al. Low-Dose CT for Renal Calculi Detection Using Spectral Shaping of High Tube Voltage.
+Fortschr Röntgenstr 2022; DOI: 10.1055/a-1752-0472.
+Mastocytosis is a clonal hematopoietic disorder characterized by proliferation of abnormal mast cells in various organs including the skin, digestive system, lymph nodes, and bone marrow.
+We report on a 75-year-old woman presenting with abdominal pain, vomiting, diarrhoea, myalgia, and weight loss.
+Abdominal CT showed hepatosplenomegaly with heterogeneous splenic parenchyma, lymphadenopathy, and osteopenia with areas of osteosclerosis but no primary tumour.
+An <sup>18</sup>F-FDG PET/CT revealed an overall low metabolic activity of the lesions with a diffuse bone marrow involvement raising suspicion of a haematological neoplasm.
+Subsequently, bone marrow and peripheral blood examinations confirmed the diagnosis of aggressive systemic mastocytosis.
+Osteogenesis imperfecta (OI) is a genetic disease characterized by fragile bones and variable short stature.
+We performed a retrospective cohort study to evaluate demographic data, clinical findings, growth and pubertal characteristics, and medical treatment of 83 OI patients.
+83 (31 female/52 male) patients were enrolled in the study.
+The median follow-up duration was 4.7 (0.6-17.7) years.
+51 out of 83 patients (61.4%) received bisphosphonate therapy.
+The median Z-score of the bone mineral density improved in patients with OI-I and OI-III with the treatment.
+During follow-up, height-SDS significantly increased in both OI-I and OI-III on treatment; however, final adult height SDS of patients did not improve.
+The frequency of overweight and obesity was found to be increased at the last evaluation compared to the admission.
+The rate of precocious puberty (PP) and early puberty (EP) were 20 and 10% in girls, and they were 15.7 and 47.3% in boys, respectively.
+Reduced growth, significant weight gain over time due to impaired mobility, and high frequency of PP/EP require effective interventions to improve mobility and functional parameters as early as possible in children with OI.
+Patients from the general practice who had severe acute respiratory syndrome coronavirus type 2 (SARS-CoV-2) infection between January 2020 and March 2021 participated in an online survey to report their symptoms.
+This observational study describes the broad range of mild to moderate symptoms experienced by 160 symptom-based coronavirus disease 2019 (COVID-19) nonhospitalized patients, including 89 laboratory-confirmed cases.
+Compared to confirmed cases, a higher number of presumed and suspected patients had sore throat, shortness of breath, tightness in the chest, fatigue, or severe neck tension.
+Unexpected COVID-19-associated clinical features, such as alteration of blood consistency, hormonal imbalance, increased muscle tone and/or aches of skeletal muscles, joint pain, or dermatological disorders were observed by the participants.
+In the early period of the pandemic, COVID-19 diagnosis of patients was based on medical symptoms rather than polymerase chain reaction (PCR) or serological testing.
+These real-world data are essential to understand the pathophysiology of this virus infection and to develop innovative therapeutic approaches.
+Extensive exophytic pigmented viral plaques developed on a Chihuahua dog causing pruritus and discomfort.
+Neither the medical treatments used nor a papillomavirus vaccine resulted in clinical improvement.
+Laser surgery removed some plaques, yet others developed.
+This case illustrates the difficulty in treating viral plaques and the progressive nature of this disease.

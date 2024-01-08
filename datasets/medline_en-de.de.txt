@@ -1,0 +1,51 @@
+Alkoholhepatitis ist die akute Verschlechterung der alkoholischen Lebererkrankungen mit einem raschen Auftreten oder einer Verschlechterung des Ikterus und in schweren Fällen mit der Transition zum akut-auf-chronischem Leberversagen mit einer horrenden Kurzzeitmortalität, die mit der Anzahl und Schwere der hepatischen und extrahepatischen Organdysfunktion ansteigt.
+Die Diagnose und Behandlung sind unbefriedigend und herausfordernd, vor allem wegen der komplexen und multifaktoriellen, unzureichend verstandenen Pathogenese.
+Während das aktuelle Management auf Steroide und “best supportive care” beschränkt ist, wird heftig über die Lebertransplantation für ausgewählte Patienten diskutiert, und mehrere neuere Strategien werden derzeit getestet mit gemischten Ergebnissen.
+Durch diese Nachteile des Managements zusammen mit der wachsenden Prävalenz in Deutschland und allgemein in westlichen Ländern, bezeichnet man die Alkoholhepatitis als ein „unmet need“ für das Gesundheitssystem.
+Diese Übersichtsarbeit versucht den aktuellen Stand dieser Aspekte zusammenzufassen und einen Überblick über die Pathogenese, Management und potenzielle zukünftige Therapien widerzugeben.
+ZIEL:  Ziel dieser Studie war die Untersuchung der Strahlendosisreduktion in der nativen Computertomografie (CT) bei Verdacht auf Nephro- und Urolithiasis mittels additiver Zinn-Filterung im Vergleich zum Standardprotokoll ohne spektrale Filterung.
+Es wurde eine Phantomstudie mit 7 humanen Nierensteinen durchgeführt.
+Zusätzlich wurden 120 konsekutive, native CT-Untersuchungen, die aufgrund des Verdachts auf Nierensteine durchgeführt wurden, in diese retrospektive, monozentrische Studie aufgenommen.
+60 Untersuchungen wurden mit dem Standarddosisprotokoll (SP) (100 kV/130 mAs) durchgeführt, während weitere 60 Untersuchungen mit einem Niedrigdosisprotokoll (LD) mit additiver Zinn-Filterung (Sn150 kV/80 mAs) durchgeführt wurden.
+Die Bildqualität wurde in consensus durch 2 Radiologen (verblindet für die Akquisitionstechnik) anhand einer äquidistanten Likert-Skala von 1 bis 5 bewertet (5 = sehr gut).
+Die quantitative Bildqualität wurde mittels Region-of-interest-Analysen in den Bauchorganen sowie im Muskel- und Fettgewebe beurteilt und in Form des Bildrauschens und des Signal-Rausch-Verhältnisses (SNR) verglichen.
+Zur Analyse der Strahlendosis-Exposition kam eine kommerziell erhältliche Dosimetrie-Software zum Einsatz.
+Alle 7 Nierensteine des Phantoms konnten mit beiden Protokollen nachgewiesen werden.
+Hinsichtlich der Größe der Konkremente gab es keinen Unterschied zwischen den beiden Protokollen, mit Ausnahme des kleinsten Konkrements.
+Das kleinste Konkrement maß 1,5 mm in LD und 1,0 mm in SP (Ground Truth 1,5 mm).
+CTDIvol betrug 3,36 mGy in LD (DLP: 119,3 mGycm) und 8,27 mGy in SP (DLP: 293,6 mGycm).
+Das mittlere Patientenalter bei SP betrug 47 ± 17 Jahre und bei LD 49 ± 13 Jahre.
+Eine Ureterolithiasis wurde in 33 Fällen bei SP und in 32 Fällen bei LD gefunden.
+Die mediane Größe des Konkrements betrug 3 mm bei SP und 4 mm bei LD.
+Die mediane effektive Dosis (ED) bei LD betrug 1,3 mSv (Interquartilenabstand (IQR) 0,3 mSv) im Vergleich zu 2,3 mSv (IQR 0,9 mSv) bei SP (p < 0,001).
+Die Schätzung der diameterkorrigierten Dosis (SSDEmean) bei LD war mit 2,4 mGy (IQR 0,4 mGy) im Vergleich zu 4,8 mGy (IQR 2,3 mGy) bei SP ebenfalls signifikant niedriger (p < 0,001).
+SNR war bei LD im Vergleich zur SP signifikant niedriger (p < 0,001).
+Hinsichtlich der qualitativen Beurteilung der Bildqualität gab es jedoch keinen signifikanten Unterschied zwischen SP und LD mit einem Median von 4 (IQR 1) für beide Gruppen (p = 0,648).
+Die native CT mit additiver Zinn-Filterung zur Detektion von Nierensteinen führt zu einer signifikanten Reduktion der Strahlendosis im Vergleich zum Standard Low-Dose-Protokoll bei gleichbleibender diagnostischer Aussagekraft.
+· Signifikante Reduktion der Strahlendosis mittels Zinn-gefilterter CT zur Detektion von Nierensteinen. · Vergleichbare diagnostische Aussagekraft der Niedrigdosis-CT trotz Anwendung von Zinn-Filterung. · Keine Kompromittierung der diagnostischen Bildqualität durch Anstieg des Bildrauschens.
+Die Mastozytose ist eine klonale hämatopoetische Erkrankung, welche durch eine Proliferation von abnormalen Mastzellen in verschiedenen Organen wie Haut, Verdauungstrakt, Lymphknoten und Knochenmark gekennzeichnet ist.
+Wir berichten über eine 75-jährige Frau mit Bauchschmerzen, Erbrechen, Diarrhö, Myalgie und Gewichtsverlust.
+Ein CT des Abdomens zeigte eine Hepatosplenomegalie mit heterogenem Milzparenchym, Lymphadenopathie und Osteopenie mit osteosklerotischen Herden, aber keinen Primärtumor.
+Im PET/CT fand sich eine insgesamt niedrige metabolische Aktivität der Läsionen, mit einer diffusen Knochenmarkbeteiligung die verdächtig auf eine hämatologische Neoplasie war.
+Eine Untersuchung des Knochenmarks und des peripheren Blutes bestätigte anschließend die Diagnose einer aggressiven systemischen Mastozytose.
+ZIEL: Osteogenesis imperfecta (OI) ist eine genetisch-bedingte Erkrankung mit fragilen Knochen und variabler Kleinwuchsform.
+Wir führten eine retrospektive Kohortenstudie durch, um demografische Daten, klinische Befunde, Wachstums- und Pubertätsmerkmale sowie die medizinische Behandlung von 83 OI-Patienten zu bewerten. 83 (31 weibliche/52 männliche) Patienten wurden in die Studie aufgenommen.
+Der Median der Follow-up-Dauer lag bei 4,7 (0,6–17,7) Jahren.
+51von 83 (61,4%) Patienten erhielten die Bisphosphonat-Therapie.
+Der Median Z-Score der Knochenmineraldichte verbesserte sich bei Patienten mit OI-I und II-III mit der Behandlung.
+Während des Follow-ups stieg die Größe-SDS sowohl bei OI-I als auch bei OI-III unter Behandlung signifikant an; das endgültige SDS der Erwachsenengröße der Patienten verbesserte sich jedoch nicht.
+Die Häufigkeit von Übergewicht und Adipositas war bei der letzten Bewertung im Vergleich zur Aufnahme erhöht.
+Die Rate der vorzeitigen Pubertät (precocious puberty – PP) und der frühen Pubertät (early puberty – EP) betrug bei Mädchen 20% bzw.
+10% und bei Jungen 15,7% bzw.
+47,3%.
+Reduziertes Wachstum, signifikante Gewichtszunahme im Laufe der Zeit aufgrund eingeschränkter Mobilität und hohe Häufigkeit der PP/EP erfordern wirksame Interventionen, um die Mobilität und die funktionellen Parameter so früh wie möglich bei Kindern mit OI zu verbessern.
+Patienten der Arztpraxis, die zwischen Januar 2020 und März 2021 eine SARS-CoV-2(„severe acute respiratory syndrome coronavirus type 2“)-Infektion durchgemacht haben, berichteten in einem Online-Fragebogen über ihre Symptome.
+Die vorliegende Beobachtungsstudie zeigt das breite Spektrum der COVID-19 („coronavirus disease 2019“)-Symptome bei 160 nichthospitalisierten COVID-19-Patienten – davon 89 laborbestätigte Fälle – mit milder bis mittelschwerer Erkrankung auf.
+Im Vergleich zu den bestätigten Fällen zeigte ein höherer Anteil bei den Verdachtsfällen die Symptome Halsweh, Atemnot, Engegefühl in der Brust, Müdigkeit und schwere Nackenverspannung.
+Unter den Probanden sind unerwartete COVID-19-assoziierte Krankheitsbilder, wie Viskositätsänderungen des Bluts, hormonelle Dysbalancen, ein erhöhter, schmerzhafter Muskeltonus der Skelettmuskulatur, Gelenkschmerzen sowie dermatologische Beschwerden beobachtet worden.
+In der Frühphase der Pandemie erfolgte die Diagnose einer COVID-19-Infektion anhand der spezifischen klinischen Symptome anstatt durch eine Polymerasekettenreaktion (PCR) oder Antikörpertestung.
+Diese Daten aus der Praxis sind zum Verständnis der Pathophysiologie dieser Virusinfektion unerlässlich sowie zur Entwicklung innovativer Konzepte für präventive und therapeutische Ansätze.
+Bei einem Chihuahuha entwickelten sich virale Plaques, die Juckreiz und Unwohlsein verursachten.
+Weder eine medizinische Behandlung noch eine Papillomvirus Vakzine verhalfen zu einer klinischen Verbesserung.
+Mittels Laser Chirurgie wurden einige Plaques entfernt, während neue entstanden.
+Dieser Fall zeigt die Schwierigkeiten bei der Behandung viraler Plaques sowie die progressive Natur dieser Erkrankung.
