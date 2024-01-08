@@ -1,0 +1,3 @@
+For fine-tuning the models, a shortened version of the EMEA medical corpus has been used.
+
+For testing and comparing the models' performance, a shortened version of the medline medical corpus has been used.
