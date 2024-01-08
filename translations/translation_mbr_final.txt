@@ -1,0 +1,51 @@
+Alkoholische Hepatitis ist die akute Verschlechterung der alkoholischen Lebererkrankung mit rascher oder Verschlimmerung der Jungfräulichkeit, die in schweren Fällen zu einer akuten on-chronic Leberversagen mit extrem hoher kurzzeitiger Sterblichkeit übergehen kann, die mit der Zahl und Schwere der hepatischen und extrahepatischen Organversagen zunimmt.
+Diagnostik und Behandlung sind unzureichend und sind eine Herausforderung, insbesondere aufgrund der komplexen, multifaktoriellen und noch nicht vollkommen erschlossenen Pathogenese.
+Die aktuelle Behandlung beschränkt sich auf Steroide und beste unterstützende Pflege, aber auch die Behandlung durch Lebertransplantation für ausgewählte Patienten ist derzeit noch in Diskussion. Mehrere neuartige Methoden sind zurzeit an laufender Diskussion mit gemischten Ergebnissen.
+So stellen diese Rückständigkeiten beim Krankheitsmanagement zusammen mit zunehmender Prävalenz in Deutschland und allgemein in den westlichen Ländern einen unerfüllten Bedarf an den Gesundheitssystemen dar.
+Der vorliegende Überblick zielt darauf ab, den aktuellen Zustand der beinigen Aspekte zusammenzustellen und bietet einen Überblick über die Pathogenese, das Management sowie mögliche zukünftige Behandlungsarten.
+Eine Untersuchung über die Reduzierung der Strahlenexposition bei unverbessertem CT bei Verdacht auf Nierenkalk, bei dem eine H-Röhrenspannungsprobe, zereinfärbt, im Vergleich zu einem Standard-Niederdoseprotokoll ohne spektrowajtische Umgestaltung vorgenommen wird.
+Um das Testverfahren beider Protokolle zu erproben, wurde eine Phantomstudie mit 7 menschlichen Nierenkalkurien durchgeführt.
+120 aufeinander folgende CT-Untersuchungen ohne verstärkten Effekt, die aufgrund eines Verdachts auf Nierenapplikation oder Nierenkalkulationen durchgeführt worden waren wurden in diese retrospective, monozentrische Studie eingeschlossen.
+60 Untersuchungen wurden mit dem Standard-Dosierungs-Protokoll (SP) (100 kV/130 mAs) aufgenommen, während weitere 60 Untersuchungen mit einem Niedrigdosierungs-Protokoll (LD) aufgenommen wurden, bei dem Spektrale-Formulation durch Zinnfiltration hoher Röhrenspannungen (Sn150 kV/80 mAs) eingesetzt wurde.
+Die Bildqualität wurde von zwei Radiologen im Einvernehmen blind gegenüber technischen Parametern bewertet und es wurde eine equidistante Likert-Skala von 1-5 benutzt bei der der höchste Wert bei 5 liegt.
+Die quantitative Bildqualität wurde an der Analyse der Regionen von Interesse in den Darmorganen, Muskeln und Adipositas berechnet, um Bildrauschen und Signal-Rausch-Verhältnisse (SNR) zu bewerten.
+Die kommerzielle Dosiersoftware wurde eingesetzt, um die effektive Dosis (ED) und den gemessenen (SSDE) durchschnittlichen Wert zu ermitteln und die vergleichbaren Dosimetriewerte (SSDEs) zu bestimmen.
+In beiden Protokollen konnten alle sieben Nierenkisskalken des Phantoms erkannt werden.
+Es gab keinen Unterschied in der Größe des Kalkulationskerns zwischen den beiden Protokollen mit Ausnahme des kleinsten.
+Die kleinste Beläge messen in LD 1,5 mm und in SP 1,0 mm (Gedankenwahrheit 1.5 mm)...
+Das CTDIvol lag bei 3,36 mGy in LD (DLP: 119,3 mGycm) und 8,27 mGy in SP (DLP: 293,6 mGycm).
+Im SP betrug das durchschnittliche Alter der Patienten 47  17 Jahre und im LD 49  13 Jahre.
+Ureterolithiase in 33 Fällen der SP und 32 Fälle der LD-Trauma.
+Die mittlere Konkretionsgröße von 2 mm im SP und 4 mm im LD beträgt 3.
+Der Median-ED in LD hatte 3,3 mSv (interquartile-Rand (IQR) 0,3 mSv) im Vergleich zu 2,3 mSv (IQR 0,9 mSv) in SP (p  0,001).
+Der SSDEmean des LD war auch wesentlich niedriger verglichen mit SP mit 2,4 mGy (IQR 0,4 mGy) vs. 4,8 mGy (IQR 2,3 mGy) (p  0.001).
+Die SNR war signifikant geringer in LD als in SP (p  0,001).
+Allerdings wird kein signifikanter Unterschied zwischen FP und LD bezüglich der qualitativen Bewertung der Bildqualität mit einem Median von 4 (IQR 1) für beide Gruppen (p = 0.648).
+Eine nicht angereicherte Tin-FilTR-Gedenktechnik zur Ermittlung von Nierenkrebsen unter Verwendung hoher Röhrenspannungen führt zu einer signifikanten Senkung der Strahlenexposition und beschert eine hohe diagnostische Bildqualität ohne beträchtliche Unterschied zu dem herkömmlichen Lohnverfahren ohne Tinfiltration.
+ Eine Tin-Filtration reduziert die Strahlendose für die Erkennung einer Nierenkrebserkrankung erheblich..  Der Einsatz von Tin-Filtration der resverteilten Protokolle sorgt für eine vergleichbare Diagnosequalität..  Ein Anstieg des Rauschens bremst die Diagnosequalität..  Gassenmaier S, Winkelmann MT, Magnus J et al.
+Fortschr Röntgenstr 2022; DOI: 10.1055/a-1752-0472..
+Mastozytose ist eine klonale hämopoetische Störung, charakterisiert durch die Proliferation abnormaler Mastzellen in verschiedenen Organen einschließlich Haut, Verdauungssystem, Lymphknoten, und Knochenmark.
+Wir berichten von einer 75-jährigen Frau und vorzeigen eine abdominale Schmerzen, Erbrechen, Durchfall, Myalgie, und Gewichtsverlust...
+Bei der Abdominal-CT zeigte sich Hepatosplenomegalie mit heterogenem spleenischen Parenchym, Lympadeopathie und Osteopenie durch an der Oberlippe stehende Bereiche von Osteosklerose, aber keineswegs primärem Tumor.
+Ein sup>18/sup>F-FDG PET/CT ergab eine sehr geringe Metabolismusaktivität der Blutungen und eine diffuse Knochenmarkbeteiligung, dass einen Verdacht auf eine haematologische Neoplasme aufkommen ließ.
+Nach nachfolgender Untersuchung der Knochenmark- und Peripheriebluten wurde die Diagnose der aggressiven systemischen Mastozytose bestätigt.
+Die Osteogenesis imperfecta (OI) ist eine genetische Erkrankung, die durch zerbrechliche Knochen und seinen variablen stattlichen Ansatz gekennzeichnet ist.
+Im Rahmen einer Nachweisstudie über die gesundheitlichen Daten, die klinischen Ergebnisse, die Wachstums- und Körpergrößen sowie die medizinische Versorgung von 83 OI-Patienten soll eine Retrospective-Kohortenstudie durchgeführt werden.
+Insgesamt wurden 83 Patienten in die Studie einbezogen (31 weibliche/52 männliche).
+Die mittlere Untersuchungsdauer betrug 4,7 (0.6-17,7) Jahre.
+51 von 83 Patienten (61,4%) gingen auf Bisphosphonat-Trägerei zurück.
+Nach der Behandlung verbesserte sich der médiane Z-Farbdruck der Knochendichte der Patienten mit OI-I und OI-III.
+Die Nachbehandlungszeit zeigt eine signifikante Steigerung sowohl der mittleren als auch der oberen Unterschenkel bei OI-I und OI-III, bei Erwachsenen jedoch keine Verbesserung der mittleren Unterschenkel.
+Bei der letzten Begutachtung wurde festgestellt, dass die Häufigkeit von Übergewicht und Übergewicht auf höherem Niveau war als die Aufnahme.
+Die Rate der präzedenzhaften Pubertät (PP) und frühen Pubertät (EP) waren 20 und 10% bei Mädchen, und sie waren 15,7 beziehungsweise 47,3% bei Jungen.
+Vermindertes Wachstum, bedeutsames Gewichtszuwachs mit der Zeit aufgrund beeinträchtigter Mobilität und hohe Häufigkeit von PP/EP verlangen effektive Interventionen, um Mobilität und funktionelle Parameter so früh wie möglich bei Kindern mit OLI zu verbessern.
+Patienten der Allgemeinarztpraxis, die unter der Infektion mit dem Coronavirus Typ 2 (SARSCoV) schwerstes Atemwegssyndrom erlitten haben, haben an einer Online-Umfrage teilgenommen, um ihre Symptome zu melden.
+Diese Beobachtungsstudie beschreibt die weit gefächerte Bandbreite milder bis mittelschwerer Symptome, die von 160 symptombasierten Coronavirus 2019 (COVID-19) nichthospitalisierte Patienten erfahren, darunter 89 Laborkontrollen.
+Verglichen mit den bestätigten Fällen hatten mutmaßliche und vermutete Patienten häufiger Halsschmerzen, Atemverkrüppelungen, Bruststreife, Müdigkeit und eine hohe Halsverspannung.
+Unerwartete in COVID-19-Erkrankungen in Verbindung gebrachte klinische Merkmale wie Blutkonstitutionsveränderungen, hormonales Ungleichgewicht, vermehrter Muskeltonus und/oder die Erkältung von Skelettmuskulaturen, Gelenkschmerzen oder dermatologische Arthritis wurden von den Teilnehmern beobachtet.
+Bereits in der frühen Phase der Pandemie wurde bei COVID-19 die Diagnose der Patienten auf medizinischen Symptomen mit dem Gegenstand einer Polymerase-Kettenreaktion (PCR) oder der serologischen Untersuchung basiert.
+Durch das Verständnis der Pathophysiologie dieser Infektion sowie die Entwicklung innovativer Therapieansatze lässt sich der von Riesenkaskaden ausgehenden Resistenz erforschen.
+Entlang der Haut entstand eine verzweigt ausgewachsene, exophytische, pigmentose virale Plaque, die bei einem Chihuahua seinen Pucker entzieht.
+Weder die Verwendung von medizinischen Behandlungen noch der Einsatz des Impfstoffes gegen das Papillomavirus führten zu einer klinischen Verbesserung.
+Laserchirurgisch wurden einige Plaques entfernt, weitere entwickelten sich aber.
+Dieser Fall zeigt die Schwierigkeit der Behandlung von viralen Plaques, und der progressive Charakter dieser Erkrankung.

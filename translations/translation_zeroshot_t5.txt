@@ -1,0 +1,51 @@
+Alkoholische Hepatitis ist die akutische Verschlimmerung einer alcoolischem Gelenkerkrankung mit schnellem Infektion oder zunehmendem Bauchschmerzen, die in schweren Fällen zu einer akut-on-chronischem Gelenkinfektion mit äußerst hoher kurzfristigem Mortalität, die sich mit der Anzahl und Severität der hepatischen und extrahepatischen Organstörungen steigt.
+Die Diagnose und die Behandlung sind unzureichend und schwierig, insbesondere wegen der komplexen, multifactorialen und noch nicht vollständig zu verstehenden Pathogene.
+Auch wenn die derzeitige Management auf Steroiden und die besten unterstützende Betreuung beschränkt ist, gibt es weiterhin eine Debatte über die Livertransplantation für ausgewählte Patienten, und mehrere neue Ansätze mit unterschiedlichen Ergebnissen laufen.
+Diese Mängel in der Bekämpfung von Krankheiten und die zunehmende Prävalenz in Deutschland und generell in westlichen Ländern sind für die Gesundheitssysteme ungerechtfertigt.
+Dieses Bericht versucht, die derzeitigen Status dieser Aspekte zu fassen und einen Überblick für die Pathogenetik, die Management und die möglichen künftigen Behandlungen zu vermitteln.
+Untersuchung der Radiationsexposure in unzureichenden CT-Kontrollen in der Besorgnis von Renalkalkemia mit einem tin-filterierten hohen Spannungsprotokol, vergleichsweise mit einem standardmäßigen Low-Dose-Protokol, ohne spezifische Formierung.
+Eine phantomische Untersuchung mit 7 menschlichen Renalkontrollen wurde durchgeführt, um die beiden Verfahren zu testen.
+In diesem retrospectiven, monocentricen Studie wurden 120 spezifischen, unzureichenden CT-Aufsichtsverfahren durchgeführt, die wegen der Besorgnis von Renalkalori durchgeführt wurden.
+60 Untersuchungen wurden mit dem Standarddose-Protokoll (SP) (100 kV/130 mAs), während weitere 60 Untersuchungen mit dem Low-dose-Protokoll (LD) angewendet wurden, die spektralisierte Formierung mit Tin-Filter von hoher Spannungen (Sn150 kV/80 mAs).
+Die Bildqualität wurde von zwei Radiologen in Konsens blind zu technischen Parametern ausgewertet, mit einem equidistanten Likert-Skala von 1-5, mit 5 der höchsten Score.
+Die quantitativen Bildqualität wurde mit Regionen von Interesse in den Bauchorganen, Muskeln und Adipose-Teichen untersucht, um die Bildnoise und die Signal-to-Noise Ratios (SNR) zu bewerten.
+Die Anwendung der gängigen Dosimetrie-Software ermöglichte die Berechnung und Vergleich der effektiven (ED) und Größe-specificen Dosimetrie (SSDEmean).
+Mit beiden Verfahren konnten alle sieben Rennkontrollen des phantoms bedeutsam werden.
+Es gibt keine Unterschiede zwischen den beiden Protokollen im Hinblick auf die Größe des calculi.
+Die smalleste Koncretion beträgt 1,5 mm in LD und 1.0 mm in SP (Ground Truth 1,5 mm).
+Die CTDIvol war 3.36 mGy in LD (DLP: 119.3 mGycm) und 8.27 mGy in SP (DLP: 293.6 mGycm).
+Die durchschnittliche Patientenzeit in SP war 47  17 Jahren, in LD 49  13 Jahren.
+Ureterolithiase wurde in 33 Fällen in SP und 32 Fällen in LD gefunden.
+Die mittleren Koncretiongröße war 3 mm in SP und 4 mm in LD.
+Die mediane ED in LD war 1,3 mSv (interquartile range (IQR) 0,3 mSv) gegenüber 2,3 mSv (IQR 0,9 mSv) in SP (p  0.001)..
+Die SSDEmean der LD war ebenfalls erheblich niedriger als die SP mit 2.4 mGy (IQR 0.4 mGy) vs. 4.8 mGy (IQR 2.3 mGy) (p  0.001)..
+Die SNR war erheblich niedriger in LD als in SP (p  0.001)..
+Allerdings gibt es keine erhebliche Unterschiede zwischen SP und LD im Hinblick auf die qualitative Bewertung der Bildqualität, mit einer Mittelmeer von 4 (IQR 1) für beide Gruppen (p = 0.648).
+Die tin-filterierte Abdominal-CT für die Detection von Renalkalkuri mit hoher Tubespannung führt zu einer erheblichen Reduzierung der Radiationsexposure und führt zu einer hohen diagnösischen Bildqualität, ohne einen erheblichen Unterschied gegenüber dem standardmäßigen Low-Dose-Protokoll ohne tin Filtration.
+ Tin-filtered CT für die Detection von Renalkalkien erheblich verringert die Radiationdose..  Die Anwendung von Tin-Filtering bietet eine vergleichbare Diagnosequalität an denen der SP-Protokolle..  Die Anstieg der Bildnoise hat keine Auswirkungen auf die Diagnosequalität..  Gassenmaier S, Winkelmann MT, Magnus J et al. Low-Dose CT for Renal Calculi Detection Using Spectral Shaping of High Tube Voltage.
+Fürtschr Röntgenstr 2022; DOI: 10.1055/a-1752-0472.
+Mastocytose ist eine clonalhematopoietische Erkrankung, die durch die Verbreitung von Abnormalen Mast Cellen in verschiedenen Organen wie der Haut, das Gesetzsystem, Lymphnoden und den Wunden charakterisiert wird.
+Wir berichteten über eine 75-jährige Frau, die mit Bauchschmerzen, Übelungen, Diarrhei, Myalgia und Gewichtsverlust tritt.
+Die Abdominale CT zeigte eine hepatosplenomegaly mit heterogenem splenischen Parenchyma, Lymphadenopathie und Osteopenia mit Gebieten der Osteosklerose, aber keine Haupttumor.
+Eine sup>18/sup>F-FDG PET/CT zeigte eine insgesamt niedrige Metabolisierungsaktivität der Lesionen mit einer dünnen Bödenmembranebeinigung, die die Besorgnis einer hämatologischen Nenoplasie ergibt.
+Nachfolgend bestätigten die Untersuchungen in Bon- und Peripheral-Blooden den Diagnose einer aggressiven Systemische Mastocytose.
+Osteogenesis imperfecta (OI) ist eine gentechnische Krankheit, die durch schwächere Bonen und variablen kurzen Statue charakterisiert wird.
+Wir haben eine retrospective Cohort-Studie durchgeführt, um die demographische Daten, die klinische Erkenntnisse, die Wachstums- und Pubertalcharakteristiken sowie die medizinische Behandlung von 83 Patienten mit OI zu bewerten.
+83 Patienten (31 Frauen/52 Männer) wurden in diesem Studien aufgenommen.
+Die durchschnittliche Dauer der Überwachung war 4.7 (0.6-17.7) Jahren.
+51 aus 83 Patienten (61.4%) erhielten bisphosphonatetherapie.
+In Patienten mit OI-I und OI-III verbesserte die mediane Z-Score der Bonmineraldichte.
+Während der Überwachung steigt die Höhe-SDS erheblich in beiden OI-I und OI-III auf der Behandlung, aber die Höhe-SDS der letzten Erwachsenen der Patienten hat sich nicht verbessert.
+Die Frequenz des Übergewichts und der Obesität wurde bei der letzten Evaluierung angestiegen, als bei der Einreise.
+Die PP- und EP-Rate waren 20 % und 10 % für die Mädchen, sowie 15.7 % und 47.3% für die Jungen.
+Die verringerte Wachstum, die erhebliche Gewichtsüberwachung wegen mangelnder Mobilität und die hohe Frequenz der PP/EP erfordern effektive Interventionen, um die Mobilität und die Funktionellen Parameter in den Kindern mit OI so früh wie möglich zu verbessern.
+Patienten aus der allgemeinen Praxis, die zwischen Januar 2020 und März 2021 eine schwere Acute Respiratory Syndrome coronavirus Typ 2 (SARS-CoV-2) Infektion hatten, beteiligten sich in einem Online-Survey zur Bericht ihrer Symptome.
+Dieses Observationsstudium beschreibt die breiten Symptome, die 160 Patienten mit Symptomen der COVID-19 (COVID-19) nicht in Krankenhäusern erkannt haben, darunter 89 Fälle, die in Labor bestätigt wurden.
+Vergleich zu den bestätigten Fällen hat eine größere Anzahl von vermuteten und südlichen Patienten erschwerten Bauch, kurzen Brems, Schicksalen, Schwäche oder schwere Neckenspannung.
+Die Teilnehmer haben unerwartete COVID-19-associated klinische Featuren, wie die Veränderung der Blutdichte, die hormonalen Ungleichgewicht, die erhöhte Muskeltone und/oder Muskelschmerzen, die Muskelschmerzen oder der Dermatologischen Störungen gesehen.
+In der frühen Zeit des Pandemiens beruhte der COVID-19-Diagnostik auf medische Symptome, nicht auf Polymerase Chain Reaction (PCR) oder serologische Untersuchungen.
+Diese reale Weltdaten sind essentiell, um die Pathophysiologie dieser Virus-Infektion zu verstehen und innovative therapeutische Ansätze zu entwickeln.
+Exophytisch pigmentierte virale Plaquen wurden auf einem Chihuahua-Dog entwickelt, die Prütus und Verzögerung hervorrufen.
+Neither the medical treatments used nor a papillomavirus vaccine resulted in clinical improvement.
+Die Laserchirurgie ließ einige Plaquen entfernen, aber andere entwickelten.
+Dieses Fall weist auf die schwierige Behandlung von viralen Plaquen und die progressive Natur dieser Krankheit hervor.

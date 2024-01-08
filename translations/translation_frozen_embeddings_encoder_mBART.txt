@@ -1,0 +1,51 @@
+Alkoholische Hepatitis ist die akute Verschlechterung der alkoholischen Lebererkrankung mit schnellem Auftreten oder Verschlechterung der Gelbskrankheit, die in schweren Fällen zu akuten und chronischen Leberversagen mit extrem hoher kurzfristiger Sterblichkeit, zunehmend mit der Anzahl und Schwere der Leber- und extraleberorganischen Funktionsstörungen.
+Diagnose und Behandlung sind unzureichend und schwierig, vor allem aufgrund der komplexen, multifaktorischen und noch nicht vollständig verstandenen Pathogenese.
+Während die gegenwärtige Behandlung auf Steroiden und die beste unterstützende Pflege begrenzt ist, laufen Debatten über Lebertransplantation für ausgewählte Patienten, und mehrere neuartige Ansätze sind in Gang mit gemischten Ergebnissen.
+Diese Nachteile bei der Krankheitsbewältigung sowie die zunehmende Prävalenz in Deutschland und im Allgemeinen in westlichen Ländern stellen eine unerfüllte Notwendigkeit für die Gesundheitssysteme dar.
+Diese Überprüfung versucht, den aktuellen Stand dieser Aspekte zu zusammenfassen und bietet einen Überblick über die Pathogenese, das Management und mögliche zukünftige Behandlungen.
+Zur Untersuchung der Reduzierung der Strahlungsbelastung bei unerweiterter CT bei Verdacht auf Nierenkalküle mit einem Zinn-gefilterten Hochröhrenspannungsprotokoll im Vergleich zu einem Standard-Low-Dose-Protokoll ohne Spektralformierung.
+Eine Phantomstudie mit 7 menschlichen Nierenkalkülen wurde durchgeführt, um beide Protokolle zu testen.
+In dieser retrospektiven, monozentrischen Studie wurden 120 aufeinanderfolgende unverbesserte CT-Untersuchungen aufgrund des Verdachts auf Nierenkalkül durchgeführt.
+60 Untersuchungen wurden mit dem Standard-Dos-Protokoll (SP) (100 kV/130 mAs) durchgeführt, während weitere 60 Untersuchungen mit einem Low-Dos-Protokoll (LD) durchgeführt wurden, bei dem die Spektralformierung mit Tin-Filteration von hohen Rohrspannungen (Sn150 kV/80 mAs) angewendet wurde.
+Die Bildqualität wurde von zwei Radiologen in Übereinstimmung mit technischen Parametern mit einer Gleichdistanz-Likert-Skala von 1 bis 5 mit 5 als höchster Punktzahl bewertet.
+Die quantitative Bildqualität wurde mit Hilfe von Regionen des Interesses an Bauchorganen, Muskeln und Fettgewebe bewertet, um Bildgeräusche und Signal-Geäusche-Verhältnisse (SNR) zu analysieren.
+Zur Bestimmung und Vergleichung der wirksamen Dosis (ED) und der größenspezifischen Dosisschätzung (SSDEmean) wurde eine handelsübliche Dosismesssoftware verwendet.
+Alle sieben Nierenkalküle des Phantoms konnten mit beiden Protokollen erkannt werden.
+Es gab keine Unterschiede hinsichtlich der Calcluli-Größe zwischen den beiden Protokollen außer für den kleinsten.
+Die kleinste Betonung gemessen 1,5 mm in LD und 1,0 mm in SP (Grundwahrheit 1,5 mm).
+CTDIvol war 3,36 mGy in LD (DLP: 119,3 mGycm) und 8,27 mGy in SP (DLP: 293.6 mGycm).
+Das durchschnittliche Patientenalter bei SP war 47 ± 17 Jahre und bei LD 49 ± 13 Jahre.
+Ureterolithiose wurde in 33 Fällen in SP und 32 Fällen in LD gefunden.
+Die mittlere Betongröße war 3 mm in SP und 4 mm in LD.
+Die mittlere ED in LD war 1,3 mSv (Interquartile Reichweite (IQR) 0,3 mSv) im Vergleich zu 2,3 mSv (IQR 0,9 mSv) in SP (p < 0,01).
+Die SSDEmean von LD war ebenfalls deutlich niedriger als bei SP mit 2,4 mGy (IQR 0,4 mGy) im Vergleich zu 4,8 mGy (IQR 2,3 mGy) (p < 0,01).
+Der SNR war im LD deutlich niedriger als im SP (p < 0,01).
+Es gab jedoch keine signifikanten Unterschiede zwischen SP und LD hinsichtlich der qualitativen Bewertung der Bildqualität mit einem Median von 4 (IQR 1) für beide Gruppen (p = 0,648).
+Tin-gefilterte unverbesserte Bauch-CT zur Erkennung von Nierenkalkülen mit hoher Röhrenspannung führt zu einer signifikanten Reduzierung der Strahlungsbelastung und liefert eine hohe diagnostische Bildqualität ohne einen signifikanten Unterschied im Vergleich zum Standard des Behandlungsprotokolls ohne Tin-Filter.
+· Tin-Filter-CT zur Erkennung von Nierenkalkülen reduziert die Strahlungsdosis signifikant. · Die Anwendung von Tin-Filter liefert vergleichbare diagnostische Bildqualität wie bei SP-Protokollen. · Ein Anstieg des Bildgeräuschs beeinträchtigt die Qualität der diagnostischen Bildqualität nicht. · Gassenmaier S, Winkelmann MT, Magnus J et al. Low-Dose-CT zur Erkennung von Nierenkalkülen mittels Spektralformung von hoher Röhrenspannung.
+Fortschr Röntgenstr 2022; DOI: 10.1055/a-1752-0472.
+Mastozytose ist eine klonale Hämatopoietische Störung, die durch die Verbreitung von anormalen Mastzellen in verschiedenen Organen einschließlich der Haut, Verdauungssystem, Lymphknoten und Knochenmarks charakterisiert wird.
+Wir berichten von einer 75-jährigen Frau mit Bauchschmerzen, Erbrechen, Durchfall, Myalgie und Gewichtsverlust.
+Abdominale CT zeigte hepatosplenomegaly mit heterogenem splenischen Parenchyma, lymphadenopathie und Osteopenie mit Bereichen der Osteosklerose, aber keine primären Tumoren.
+Ein <sup>18</sup>F-FDG PET/CT zeigte eine insgesamt geringe Stoffwechselaktivität der Läsionen mit einer diffusen Beteiligung des Knochenmarks auf, was Verdacht auf eine hemmatologische Neupflanze auflöste.
+Anschließend bestätigten Untersuchungen des Knochenmarks und peripheren Blutes die Diagnose einer aggressiven systemischen Mastozytose.
+Osteogenesis imperfecta (OI) ist eine genetische Erkrankung mit zerbrechlichen Knochen und variabler kurzen Körpergröße.
+Wir führten eine retrospektive Kohortenstudie durch, um demografische Daten, klinische Ergebnisse, Wachstums- und pubertäle Merkmale sowie die medizinische Behandlung von 83 OI-Patienten zu bewerten.
+83 (31 weibliche/52 männliche) Patienten wurden in die Studie aufgenommen.
+Die mittlere Folgedauer betrug 4,7 (0.6-17.7) Jahre.
+51 von 83 Patienten (61,4%) erhielten eine Bisphosphonattherapie.
+Der mittlere Z-Score der Knochenmineraldichte wurde bei Patienten mit OI-I und OI-III mit der Behandlung verbessert.
+Während des Follow-ups erhöhte sich die Höhen-SDS signifikant bei OI-I und OI-III bei der Behandlung; die endgültige Erwachsenenhöhen-SDS der Patienten verbesserte sich jedoch nicht.
+Die Häufigkeit von Übergewicht und Fettleibigkeit wurde bei der letzten Beurteilung im Vergleich zur Zulassung erhöht.
+Die Rate der vorzeitigen Pubertät (PP) und der frühen Pubertät (EP) lag bei 20 und 10 % bei Mädchen und bei 15,7 und 47,3 % bei Jungen.
+Ein reduziertes Wachstum, ein signifikanter Gewichtszuwachs im Laufe der Zeit aufgrund einer Beeinträchtigung der Mobilität und eine hohe Häufigkeit von PP/EP erfordern wirksame Interventionen, um die Mobilität und Funktionsparameter bei Kindern mit OI so früh wie möglich zu verbessern.
+Patienten aus der allgemeinen Praxis, die zwischen Januar 2020 und März 2021 schwere akute Atemwegssyndrom coronavirus Typ 2 (SARS-CoV-2) hatten, nahmen an einer Online-Umfrage teil, um ihre Symptome zu melden.
+Diese Beobachtungsstudie beschreibt die breite Palette von milden bis mäßigen Symptomen bei 160 symptombasierten coronavirus-Krankheit 2019 (COVID-19) nicht-hospitalisierten Patienten, darunter 89 laboratorisch bestätigte Fälle.
+Im Vergleich zu bestätigten Fällen hatte eine höhere Anzahl von angenommenen und verdächtigen Patienten Halsschmerzen, Atemnot, Bruststraffheit, Müdigkeit oder schwere Nackenspannung.
+Unerwartete COVID-19-assoziierte klinische Merkmale wie Veränderung der Blutkonsistenz, Hormonungleichgewicht, erhöhter Muskelton und/oder Schmerzen der Skelettmuskulatur, Gelenkschmerzen oder dermatologische Störungen wurden von den Teilnehmern beobachtet.
+In der Frühphase der Pandemie basierte die Diagnose der Patienten auf medizinischen Symptomen, nicht auf der Polymerase-Kettenreaktion (PCR) oder auf sérologischen Tests.
+Diese Daten aus der Realität sind unerlässlich, um die Pathophysiologie dieser Virusinfektion zu verstehen und innovative Therapieansätze zu entwickeln.
+Umfangreiche exophytische pigmentierte virale Plaketten entwickelt auf einem Chihuahua Hund, die Prügel und Beschwerden verursacht.
+Weder die verwendeten medizinischen Behandlungen noch ein papillomavirus-Impfstoff führten zu einer klinischen Verbesserung.
+Die Laseroperation entfernte einige Plaketten, aber andere entwickelten sich.
+Dieser Fall verdeutlicht die Schwierigkeiten bei der Behandlung von Virusplatten und die fortschrittliche Natur dieser Erkrankung.
