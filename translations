@@ -1,0 +1,3 @@
+The medline file was translated from English to German with each of the models.
+
+BLEU, chrF (CHaRacter-level F-score) and COMET scores have been used to measure translation accuracy.
